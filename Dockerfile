@@ -5,6 +5,7 @@ FROM ubuntu:18.04
 RUN apt-get update &&\
     apt-get install python3.7 -y &&\
     apt-get install python3-pip -y
+RUN python -m pip install --upgrade pip setuptools wheel
 
 # exposing default port for streamlit
 EXPOSE 8501
