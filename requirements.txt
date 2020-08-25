@@ -42,7 +42,6 @@ jupyterlab==2.2.5
 jupyterlab-server==1.2.0
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
-llvmlite==0.34.0
 matplotlib==3.3.1
 mccabe==0.6.1
 missingno==0.4.2
