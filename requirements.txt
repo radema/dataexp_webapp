@@ -1,6 +1,5 @@
 altair==4.1.0
 analytics-python==1.2.9
-argon2-cffi @ file:///C:/ci/argon2-cffi_1596828549974/work
 astor==0.8.1
 astroid==2.3.3
 astropy==4.0.1.post1
@@ -31,34 +30,24 @@ future==0.18.2
 htmlmin==0.1.12
 idna==2.10
 ImageHash==4.1.0
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
-ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1596868620883/work
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==4.3.21
-jedi @ file:///C:/ci/jedi_1596472767194/work
 Jinja2==2.11.2
 jmespath==0.10.0
 joblib==0.16.0
 json5==0.9.5
-jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-core==4.6.3
 jupyterlab==2.2.5
 jupyterlab-server==1.2.0
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 llvmlite==0.34.0
-MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
 matplotlib==3.3.1
 mccabe==0.6.1
 missingno==0.4.2
-mistune @ file:///C:/ci/mistune_1594373272338/work
-nbconvert @ file:///C:/ci/nbconvert_1594372737468/work
 nbformat==5.0.7
 networkx==2.5
-notebook @ file:///C:/ci/notebook_1596837179121/work
 numba==0.51.0
 numpy==1.19.1
 packaging==20.4
@@ -69,7 +58,6 @@ pandocfilters==1.4.2
 parso==0.7.0
 pathtools==0.1.2
 phik==0.10.0
-pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
 Pillow==7.2.0
 plotly==4.9.0
 ppscore==1.1.1
@@ -77,7 +65,6 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 protobuf==3.13.0
 pyarrow==1.0.1
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pydeck==0.5.0b1
 Pygments==2.6.1
 pylint==2.4.4
@@ -118,7 +105,6 @@ validators==0.18.0
 vega-datasets==0.8.0
 visions==0.4.4
 watchdog==0.10.3
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
