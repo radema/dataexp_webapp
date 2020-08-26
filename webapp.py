@@ -28,7 +28,7 @@ def get_columns(df):
 
 @st.cache
 def generate_profile_report(df):
-	pr = ProfileReport(df, explorative=True, minimal = True)
+	pr = ProfileReport(df, explorative=True)
 	return pr
 
 def SwitchExample(argument):
