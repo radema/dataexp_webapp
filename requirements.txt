@@ -1,5 +1,5 @@
 pandas==1.1.1
-pandas-profiling==2.8.0
+pandas_profiling==2.8.0
+vega_datasets==0.8.0
+streamlit_pandas_profiling==0.0.4
 streamlit==0.65.2
-streamlit-pandas-profiling==0.0.4
-
