@@ -7,6 +7,8 @@ from streamlit_pandas_profiling import st_profile_report
 from pathlib import Path
 import os, time
 
+st.set_option('deprecation.showfileUploaderEncoding', False)
+
 st.title('Web App -  Data Explorer')
 
 
